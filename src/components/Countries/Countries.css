@@ -5,3 +5,12 @@
     grid-template-columns: repeat(3,1fr);
     gap: 10px;
 }
+
+.visited{
+    background-color: bisque;
+    color: black;
+}
+
+.flag-container{
+    width:100px ;
+}
